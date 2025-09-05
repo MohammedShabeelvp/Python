@@ -1,1 +1,1 @@
-My colection of python projects.
+My collection of python projects.
